@@ -1,0 +1,12 @@
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/bin/Release/net6.0/Catalog.Domain.deps.json
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/bin/Release/net6.0/Catalog.Domain.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/bin/Release/net6.0/Catalog.Domain.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.csproj.AssemblyReference.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.AssemblyInfoInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.AssemblyInfo.cs
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.csproj.CoreCompileInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/refint/Catalog.Domain.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/Catalog.Domain.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Catalog/Catalog.Domain/obj/Release/net6.0/ref/Catalog.Domain.dll

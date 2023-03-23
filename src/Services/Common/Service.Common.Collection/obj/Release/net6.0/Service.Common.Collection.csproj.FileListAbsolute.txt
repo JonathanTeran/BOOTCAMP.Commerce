@@ -1,0 +1,12 @@
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/bin/Release/net6.0/Service.Common.Collection.deps.json
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/bin/Release/net6.0/Service.Common.Collection.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/bin/Release/net6.0/Service.Common.Collection.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.csproj.AssemblyReference.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.AssemblyInfoInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.AssemblyInfo.cs
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.csproj.CoreCompileInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/refint/Service.Common.Collection.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/Service.Common.Collection.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Collection/obj/Release/net6.0/ref/Service.Common.Collection.dll

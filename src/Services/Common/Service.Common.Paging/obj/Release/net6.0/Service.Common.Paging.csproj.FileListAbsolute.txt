@@ -1,0 +1,15 @@
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/bin/Release/net6.0/Service.Common.Paging.deps.json
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/bin/Release/net6.0/Service.Common.Paging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/bin/Release/net6.0/Service.Common.Paging.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/bin/Release/net6.0/Service.Common.Collection.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/bin/Release/net6.0/Service.Common.Collection.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.csproj.AssemblyReference.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.AssemblyInfoInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.AssemblyInfo.cs
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.csproj.CoreCompileInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.csproj.CopyComplete
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/refint/Service.Common.Paging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/Service.Common.Paging.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Paging/obj/Release/net6.0/ref/Service.Common.Paging.dll

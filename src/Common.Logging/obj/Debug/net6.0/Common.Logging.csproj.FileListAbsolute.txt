@@ -1,0 +1,12 @@
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/bin/Debug/net6.0/Common.Logging.deps.json
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/bin/Debug/net6.0/Common.Logging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/bin/Debug/net6.0/Common.Logging.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.csproj.AssemblyReference.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.AssemblyInfoInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.AssemblyInfo.cs
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.csproj.CoreCompileInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/refint/Common.Logging.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/Common.Logging.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/obj/Debug/net6.0/ref/Common.Logging.dll

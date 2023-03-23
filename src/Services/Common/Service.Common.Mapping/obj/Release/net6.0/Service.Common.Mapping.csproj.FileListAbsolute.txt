@@ -1,0 +1,12 @@
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/bin/Release/net6.0/Service.Common.Mapping.deps.json
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/bin/Release/net6.0/Service.Common.Mapping.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/bin/Release/net6.0/Service.Common.Mapping.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.csproj.AssemblyReference.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.AssemblyInfoInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.AssemblyInfo.cs
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.csproj.CoreCompileInputs.cache
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/refint/Service.Common.Mapping.dll
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/Service.Common.Mapping.pdb
+/Users/jonathanteran/Projects/Bootcamp.commerce/src/Services/Common/Service.Common.Mapping/obj/Release/net6.0/ref/Service.Common.Mapping.dll

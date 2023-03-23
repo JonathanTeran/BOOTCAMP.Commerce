@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2e/NWQBultoYuy89JqcdpqiBJu7tRg2YDupNs/qO2xkdeSg5OU7I1Ooc60on0LBLFpee3wZAKTVyJApPvRHWgw==",
+  "success": true,
+  "projectFilePath": "/Users/jonathanteran/Projects/Bootcamp.commerce/src/Common.Logging/Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathanteran/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
